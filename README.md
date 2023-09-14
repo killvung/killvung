@@ -1,4 +1,4 @@
-### Hi there 👋 My name is killvung
+### killvung
 
 I am a Software Engineer based on 🇨🇦 and 🇺🇸, with strong focus in **microservices** and **distributed system** in **Java**, **Ruby** and **Go**. With some experiences in frontend system in **React**/**NextJS** and **Apollo GraphQL**
 

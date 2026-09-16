@@ -1,6 +1,6 @@
 ### killvung
 
-I am a Software Engineer based on 🇨🇦 and 🇺🇸, with focus in **Distributed System**. I develop with **SpringBoot**, **FastAPI**, **Gymnasium** and **Go**. With experiences in frontend (**Remix.js**, **TypeScript**, **tRPC**, **GraphQL**)
+I am a Software Engineer based in 🇨🇦 and 🇺🇸, with focus in **Distributed System**. I develop with **SpringBoot**, **FastAPI**, **Gymnasium** and **Go**. With experiences in frontend (**Remix.js**, **TypeScript**, **tRPC**, **GraphQL**)
 - Remind me to append related projects in
   - **RedPanda**
   - **Spark**
